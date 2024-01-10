@@ -1,0 +1,25 @@
+table, th {
+    border: 1px solid black;
+    
+}
+h1,h2 {
+    text-align: center;
+}
+#tag {
+    font-weight: bold;
+    color: orange;
+    background-color: gray;
+}
+#name {
+    color: black;
+    font-weight: bold;
+    background-color: darkgray;
+}
+
+#des {
+    background-color: darkgray;
+    font-family: math;
+}
+th {
+    background-color: blanchedalmond;
+}
